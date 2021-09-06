@@ -21,7 +21,7 @@ Comprobar el teorema de Thevenin mediante la resolución del ejercicio y su resp
 
 -comprobar los resultados obtenidos matemáticamente  mediante la simulación 
 
-2.MArco TEORICO
+# 2.MArco TEORICO
 
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
