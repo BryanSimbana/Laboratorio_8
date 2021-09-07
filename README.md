@@ -35,7 +35,7 @@ Comprobar el teorema de Thevenin mediante la resolución del ejercicio y su resp
 
 # 5. Video 
 
-https://youtu.be/alZ_-VXFzDQ
+https://www.youtube.com/watch?v=81cYtRiYlk0
 
 # 6.CONCLUSIONES
 
