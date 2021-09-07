@@ -25,7 +25,7 @@ Diseñar y analizar el laboratorio de tal forma que se pueda apresiar de forma g
 -Explicar  como actua la Onda Senosoidal, esto lo haremos con la ayuda del Osciloscopio.
 
 
-# 2.MArco TEORICO
+# 2.Marco TEORICO
 
 ![m1](https://user-images.githubusercontent.com/85522189/132277599-0404c38e-e476-424f-9a23-b62afc7944b9.PNG)
 
@@ -83,7 +83,7 @@ Diseñar y analizar el laboratorio de tal forma que se pueda apresiar de forma g
     
   3.¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
   
-    5 Cuadros aproximadamente
+    4 Cuadros aproximadamente
     
   5.¿En qué valor está posicionada la perilla TIME/DIV
   
