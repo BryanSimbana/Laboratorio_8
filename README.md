@@ -75,7 +75,7 @@ Diseñar y analizar el laboratorio de tal forma que se pueda apresiar de forma g
   
   1.¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
     
-   abarca 1 cuadro y 1/5 del segundo cuadro
+   abarca 2 cuadrox y 1/5 del tercero cuadro
   
   2.¿En qué valor está posicionada la perilla VOLTS/DIV?
     
