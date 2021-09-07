@@ -75,7 +75,7 @@ Diseñar y analizar el laboratorio de tal forma que se pueda apresiar de forma g
   
   1.¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
     
-    Aproximadamente 2 cuadros
+   abarca 1 cuadro y 1/3 del segundo cuadro
   
   2.¿En qué valor está posicionada la perilla VOLTS/DIV?
     
@@ -92,12 +92,12 @@ Diseñar y analizar el laboratorio de tal forma que se pueda apresiar de forma g
 4.5¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
     Amplitud de voltaje: 13. 5 (V) 
-    Periodo: 0.7 (s)
+    Periodo: 0.4 (s)
     
 4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-    f:	1.4284	(Hz)
-    ω:	8.9759(rad/s)
+    f:	2.5	(Hz)
+    ω:	15.70(rad/s)
   
 4.7	Con el multímetro digital mida el voltaje de salida en RL.
 
