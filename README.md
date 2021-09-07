@@ -23,6 +23,7 @@ Comprobar el teorema de Thevenin mediante la resolución del ejercicio y su resp
 
 # 2.MArco TEORICO
 
+![m1](https://user-images.githubusercontent.com/85522189/132277599-0404c38e-e476-424f-9a23-b62afc7944b9.PNG)
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
