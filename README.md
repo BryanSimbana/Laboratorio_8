@@ -61,12 +61,12 @@ Comprobar el teorema de Thevenin mediante la resolución del ejercicio y su resp
 4.5¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
     Amplitud de voltaje: 13. 5 (V) 
-    Periodo: (s)
+    Periodo: 0.7 (s)
     
 4.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-  f:		(Hz)
-  ω:	(rad/s)
+    f:	1.4284	(Hz)
+    ω:	8.9759(rad/s)
   
 4.7	Con el multímetro digital mida el voltaje de salida en RL.
 
