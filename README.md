@@ -13,19 +13,50 @@
 
 1.1. OBJETIVO GENERAL.
 
-Comprobar el teorema de Thevenin mediante la resolución del ejercicio y su respectiva simulación
+Diseñar y analizar el laboratorio de tal forma que se pueda apresiar de forma grafica el circuito con todas sus conexiones y elementos, medir adecuadamente el voltaje de cada componente receptor y poder tener un concepto muy claro para poder ver el comportamiendo de la Onda Senosoidal de la fuente de oltaje de (C.A.)
 
-1.2. OBJETIVOS ESPESIFICOS.
+1.2. Objetivos Especificos.
 
--Resolver el circuito eléctrico mediante el teorema de Thevenin
 
--comprobar los resultados obtenidos matemáticamente  mediante la simulación 
+
+-Responder las diferentes interrogantes que se nos lleguen a presentar al momento de realizar el laboratorio.
+
+
+-Explicar  como actua la Onda Senosoidal, esto lo haremos con la ayuda del Osciloscopio.
+
 
 # 2.MArco TEORICO
 
 ![m1](https://user-images.githubusercontent.com/85522189/132277599-0404c38e-e476-424f-9a23-b62afc7944b9.PNG)
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
+
+3.1 leer lo que nos ide la guia de laboratrio. Una vez leido y entendido el laboratorio procederemos a realizarlo, para ello vamos a visualizar que materiales necesitamos, que simulador pictografico vamos a utilizar y que circuito nos toca realizar.
+
+3.2 Los materiales que utilizaremos son:
+
+* Generador de Funciones.
+
+* Osciloscopio.
+
+* Multímetro Digital.
+
+* Reistor de 1 kΩ.
+
+* Reistor de 2.2 kΩ.
+
+* Protoboard.
+
+3.3 Para este laboratorio ocuparemos el simulador llamado DCAClab.
+
+#  ![image](https://user-images.githubusercontent.com/85320165/132339824-532645de-ef93-4fad-8627-203b6c87dc5d.png)
+ 
+ 3.4 una vez ya adentro del simulador procedemos a visualizar el cicuito que ya vimos anteriormenrennpara armarlo teniendo e cuenta el valor de la fuente resistencia.     
+ 
+ ![image](https://user-images.githubusercontent.com/85320165/132340259-b22b7f13-6728-4cbe-9e82-68bd96210301.png)
+
+3.5 imlementamos el circuito en el simulador                                                                                                                                                                                                                                                                                                                                                                                              
+![lab 4 1](https://user-images.githubusercontent.com/81887698/132283451-313ea32d-0610-48b6-ba0b-c2157d8ce943.PNG)
 
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
@@ -85,9 +116,12 @@ https://www.youtube.com/watch?v=81cYtRiYlk0
 
 # 6.CONCLUSIONES
 
--El teorema de Thevenin es de Gran utilidad para analizar cualquier circuito complejo reduciendolo a un circuito simple.
+Se logro conseguir de una manera muy eficiente el entendimiento del comportamiento de un Osciloscopio al estar conectado a una fuenta de alimentacion de A.C. y como actua su onda producida.
 
--Se comprobó que este teorema nos ayuda mucho con el analisis de circuitos que son muy dificiles a simple vista
+Se pudo contestar correctamente y detalladamente las diferentes interrogantes que se nos presentaron al momento de realizar el laboratorio esto gracias a los intrumentos de medicion.
+
+Al finalizar logramos tener todos los datos requeridos de la simulacion en una base de datos que nos ayudaron a interpretar de la mejor manera el laboratorio.
+
 
 # 7.BIBLIOGRAFÍA 
 
